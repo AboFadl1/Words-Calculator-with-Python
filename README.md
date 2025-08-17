@@ -8,3 +8,4 @@ handle any error for example File Not Found Error
 
 to use the code itself:
 Open Task 3 folder -> Task 3 -> Task 3.py -> copy the code and use it on your compiler.
+Or With pull request
